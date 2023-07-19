@@ -17,5 +17,5 @@ As técnicas e tecnologias utilizadas no projeto são:
 Para ter acesso aos arquivos do projeto você pode clonar usando o seguinte comando:
 
 ```
-git clone https://github.com/SamuelDevMobile/Trabalho01-ReactNative.git
+git clone https://github.com/SamuelDevMobile/DDD_Modelagem_Patterns_Project.git
 ```
