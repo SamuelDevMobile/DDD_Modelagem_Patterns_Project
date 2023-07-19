@@ -7,7 +7,7 @@ Este projeto implementa tecnicas de DDD e Modelagem Tática e Patterns.
 
 As técnicas e tecnologias utilizadas no projeto são:
 
-- `Type Script`: tecnologia ultilizada no projeto para fins educativos.
+- `TypeScript`: tecnologia ultilizada no projeto para fins educativos.
 - `DDD`: componentes já existentes básicos da tecnologia para compor a tela
   - `Entitys`: Conceitos de Entidades
   - `Value Objects`: Conceitos de objeto de valor
