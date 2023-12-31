@@ -8,9 +8,10 @@ Este projeto implementa tecnicas de DDD e Modelagem Tática e Patterns.
 As técnicas e tecnologias utilizadas no projeto são:
 
 - `TypeScript`: tecnologia ultilizada no projeto para fins educativos.
-- `DDD`: Domain Driven Design
-  - `Entitys`: Conceitos de Entidades
-  - `Value Objects`: Conceitos de objeto de valor
+- `DDD`: Domain Driven Design.
+  - `Entitys`: Conceitos de Entidades.
+  - `Value Objects`: Conceitos de objeto de valor.
+  - `Agregados`: Conceitos Agregados.
 
 ### 🐙 Clonando o projeto
 
